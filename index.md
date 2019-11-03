@@ -2,7 +2,7 @@
 layout: page
 title: Dev-Ops & Continuous Integration
 ---
-What is DevOps? 
+## What is DevOps? 
 
 DevOps is a software development strategy which bridges the gap between the development and operations teams within an organization. Is not a tool or a programming language. There are developers ‘devs’ and operations ‘ops’ and they work  together to ensure quality. DevOps is a software development approach that involves development, testing, integration, deployment and monitoring throughout the development process.
 

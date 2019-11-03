@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Dev-Ops & Continuous Integration
 ---
+What is DevOps? 
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+DevOps is a software development strategy which bridges the gap between the development and operations teams within an organization. Is not a tool or a programming language. There are developers ‘devs’ and operations ‘ops’ and they work  together to ensure quality. DevOps is a software development approach that involves development, testing, integration, deployment and monitoring throughout the development process.
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
 
 ## Setup Guide
 
